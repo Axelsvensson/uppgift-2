@@ -1,0 +1,39 @@
+html, body{
+	background-color: #A8A8A8;
+	margin: opx;
+	padding: opx;
+	border: opx; 
+	left: opx;
+	top: opx;
+	
+	
+}
+
+h1{
+	front-family: Arial;
+	font-size: 22px;
+	color:orange;
+	
+}
+
+.linje{
+	background-color:red;
+	text-align:center; 
+	
+}
+
+.tanke{
+	text-align:right;
+}
+
+.under1{
+	text-decoration:none;
+}
+
+.under2{
+	text-decoration:none;
+}
+
+.mig{
+	border: 1px solid black;
+}
